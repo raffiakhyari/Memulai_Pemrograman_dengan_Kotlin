@@ -1,0 +1,24 @@
+# Project exclude paths
+/.gradle/
+/Control Flow/Latihan/Latihan/build/
+/Data Class dan Collections/Latihan/latihan/build/
+/Functional/Latihan/Latihan/build/
+/Generics/Generics/Contoh 1/build/
+/Generics/Latihan/Latihan/build/
+/Kotlin Fundamental/Boolean/Conjuction/build/
+/Kotlin Fundamental/Boolean/Negation/build/
+/Kotlin Fundamental/Data Type/Array Initialization/build/
+/Kotlin Fundamental/Data Type/Char in String/build/
+/Kotlin Fundamental/Data Type/Character/build/
+/Kotlin Fundamental/Data Type/Escaped String/build/
+/Kotlin Fundamental/Data Type/Raw String/build/
+/Kotlin Fundamental/Data Type/String/build/
+/Kotlin Fundamental/Data Type/Unicode String/build/
+/Kotlin Fundamental/Data Type/Update Array/build/
+/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 1/build/
+/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 2/build/
+/Kotlin Fundamental/Latihan/Latihan/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/build/
+/Membangun dan Menjalankan Program Kotlin/Program Pertama Kotlin/Hello Kotlin/build/
+/Object-Oriented/Latihan/Latihan/build/
